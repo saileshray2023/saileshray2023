@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sailesh Ray and I'm a CSE Under Graduation student at SOA ITER, Bhubaneshwar.</h2>
+<h2 align="left">Hi 👋! My name is Sailesh Ray and I'm a CSE Under Graduation student at SOA ITER, Bhubaneshwar.I'm a Java enthusiast and loves exploring and building applications with Java.</h2>
 
 ###
 
