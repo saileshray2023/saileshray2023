@@ -36,6 +36,11 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+   <img width="12" />
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" height="30" alt="bootstrap logo"/>
+   <img width="12" />
+  <img src="https://th.bing.com/th?id=ODLS.f2936527-e4f8-4231-9052-5f09b6fc4a59&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="30" alt="jQuery logo" />
+  <img width="12" />
 </div>
 
 ###
