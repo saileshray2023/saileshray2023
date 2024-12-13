@@ -37,14 +37,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
    <img width="12" />
+  <img src="https://th.bing.com/th/id/OIP.bI8KDjd8-nDvzTX_Uok7FwHaHa?w=5000&h=5000&rs=1&pid=ImgDetMain" height="30" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=48&id=7gdY5qNXaKC0&format=png" height="30" alt="CSS logo" />
+  <img width="12" />
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" height="30" alt="bootstrap logo"/>
    <img width="12" />
   <img src="https://th.bing.com/th?id=ODLS.f2936527-e4f8-4231-9052-5f09b6fc4a59&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="30" alt="jQuery logo" />
   <img width="12" />
+  
 </div>
 
 ###
 
 <div align="center">
-  <img height="500" width="1000" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"  />
+  <img height="500" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
