@@ -3,10 +3,12 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/sailesh__ray"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  
   <a href="https://discordapp.com/users/sailesh_ray"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://x.com/R81485Sailesh?t=LJthxb45dP4id9mMhzPW7A&s=08"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
   <a href="https://www.linkedin.com/in/sailesh-ray-988867328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  /></a>
+  <a href="https://leetcode.com/u/Sailesh_Ray/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" alt="linkedin logo" /></a>
+  
 </div>
 
 ###
